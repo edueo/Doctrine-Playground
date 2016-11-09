@@ -1,1 +1,3 @@
 blog/.vagrant
+blog/vendor
+blog/composer.lock
